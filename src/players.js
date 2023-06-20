@@ -1,8 +1,8 @@
 const players = [
     'James Body',
-    'Eliza Camber',
-    'Sean DuBois',
-    'Evan McGee'
+    'Abbi Minnessale',
+    'Garrett Graves',
+    'Jared Smith'
 ];
 
 export default players;
